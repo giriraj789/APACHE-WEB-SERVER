@@ -1,6 +1,6 @@
 # README #
-Apache web server
-#docker run -d -p 8080:8080 <imagename>
+###Apache web server
+#docker run -d -p 8080:8080 --name <containername> <imagename>
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
