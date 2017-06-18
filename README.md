@@ -1,31 +1,10 @@
 # README #
-###Apache web server
-#docker run -d -p 8080:8080 --name <containername> <imagename>
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+#Apache web server
+#Follow below command to run docker container 
+##docker run -d -p 8080:8080 --name <containername> <imagename>
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Other community or team contact
+* EMAIL 
+* giriraj_789@hotmail.com
